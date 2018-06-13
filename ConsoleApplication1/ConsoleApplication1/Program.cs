@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Master");
             Console.WriteLine("master2");
+            Console.WriteLine("m3");
+            
         }
     }
 }
