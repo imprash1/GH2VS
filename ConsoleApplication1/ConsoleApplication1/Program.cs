@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Master");
-            Console.WriteLine("master2");
+            Console.WriteLine("inside branch");
         }
     }
 }
